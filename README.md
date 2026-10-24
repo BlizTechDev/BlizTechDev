@@ -16,5 +16,3 @@ Spent the past twenty-odd years working close to the OS boundary — starting ou
 - Restoring 1970s Marantz and McIntosh receiver/tube stages on the bench, spinning old jazz and blues pressings on vinyl, and brewing manual pour-overs with washed Ethiopian beans.
 
 ---
-
-> *"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."* — Brian W. Kernighan
