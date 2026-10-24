@@ -14,5 +14,3 @@ Spent the past twenty-odd years working close to the OS boundary — starting ou
 
 - Wrenching on classic American V8 iron in the garage, running summer track days out at Waterford Hills, and logging standalone ECU telemetry over CAN bus.
 - Restoring 1970s Marantz and McIntosh receiver/tube stages on the bench, spinning old jazz and blues pressings on vinyl, and brewing manual pour-overs with washed Ethiopian beans.
-
----
